@@ -7,5 +7,5 @@ proxy side:
 2. ./proxy <cache_size>
 
 client side:
-1. bash -c export http_proxy=<hostname>:<port> && wget <url>
+bash -c export http_proxy=<hostname>:<port> && wget <url to cache>
 
